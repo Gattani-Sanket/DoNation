@@ -1,0 +1,68 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial;
+}
+.header{
+	padding: 5px;
+  	background-color: #5D92B1;
+  	font-size: 30px;
+}
+.logo{
+	margin: 20px
+}
+
+.main h1{
+    text-align: center;
+    font-size: 50px;
+    color: #5D92B1;
+}
+.cardelement{
+	padding: 20px;
+}
+.cartdata h1{
+	text-align: center;
+}
+.cardelement fieldset{
+	padding: 20px;
+	margin: 50px;
+}
+.DonationBoxTransaction{
+	flex-direction: row;
+	display: flex;
+}
+.vl{
+	border-left: 3px solid #5D92B1;
+  height: auto;
+  text-align: center;
+  margin-top: 30px;
+}
+.contactdetails{
+     margin-left: 50px;
+    background:#5D92B1;
+}
+
+.contactdetails fieldset{
+	padding: 20px;
+	margin: 50px;
+}
+.ListItems form{
+	padding: 30px;
+	margin-left: 100px;
+}
+#cart{
+	margin-top: 30px;
+	margin-left: 50px;
+    padding: 20px;
+	background: #FBCEB1;
+}
+#submitrequest{
+	text-align: center;
+}
+th,tr,td{
+    border: 1px solid;
+}
